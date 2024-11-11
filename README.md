@@ -102,6 +102,25 @@
 
 <!-- </details> -->
 
+
+<h3 align="left">📊GitHub Stats:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepeshmlgupta&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" width="45%" style="display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshmlgupta&theme=nightowl&hide_border=false" width="49%" style="display:inline;"> 
+
+<br><br>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=deepeshmlgupta&limit=5&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" width="45%" style="display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshmlgupta&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="40%" style="display:inline;"> 
+
+<br><br>
+
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">🔝Activity:</h3>
+
+![deepeshmlgupta's Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepeshmlgupta&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br> -->
+
+
 <h3 align="left">🛠️🚀Hacktoberfest2024 </h3>
 
 [![An image of @deepeshgupta3257's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepeshgupta3257)](https://holopin.io/@deepeshgupta3257)
@@ -125,24 +144,6 @@
 </div>
 
 
-
-
-<h3 align="left">📊GitHub Stats:</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepeshmlgupta&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" width="45%" style="display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshmlgupta&theme=nightowl&hide_border=false" width="49%" style="display:inline;"> 
-
-<br><br>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=deepeshmlgupta&limit=5&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" width="45%" style="display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshmlgupta&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="40%" style="display:inline;"> 
-
-<br><br>
-
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">🔝Activity:</h3>
-
-![deepeshmlgupta's Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepeshmlgupta&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br> -->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
